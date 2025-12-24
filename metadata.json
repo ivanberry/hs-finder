@@ -1,0 +1,5 @@
+{
+  "name": "Global HS Code Finder",
+  "description": "A minimalist, high-performance search engine for Harmonized System (HS) codes, providing accurate trade classifications and regulatory insights powered by Gemini 3 and Google Search grounding.",
+  "requestFramePermissions": []
+}
